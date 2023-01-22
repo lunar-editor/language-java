@@ -32,6 +32,11 @@ scopes:
   'comment': 'comment.block'
 
   '''
+  line_comment,
+  block_comment
+  ''': 'comment.block'
+
+  '''
   "assert",
   "break",
   "case",
